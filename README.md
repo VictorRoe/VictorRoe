@@ -1,12 +1,13 @@
 ## Hi! I'm **Victor**👋
 
-* I'm a student at Digital House 
-* Back-end Developer 
-* From Medellin, Colombia 
----
+* I'm a student at Digital House. 
 
-## Here you have my contact: 
+* Back-end Developer.
 
-![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)
+* From Medellin, Colombia. 
+--------
 
-![twitter](http://assets.stickpng.com/images/58e9196deb97430e819064f6.png)
+## Contact  
+
+* [LinkedIn](https://www.linkedin.com/in/victorrangelromero/)
+* [Twitter](https://twitter.com/VictorRomero819)
