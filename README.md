@@ -1,13 +1,12 @@
-![gift](https://thumbs.gfycat.com/DamagedImportantAmurratsnake-mobile.mp4)
+## Hi! I'm **Victor**👋
 
+* I'm a student at Digital House 
+* Back-end Developer 
+* From Medellin, Colombia 
+---
 
-### Hi! I'm Victor👋
-## I'm a student at digital house | Full-Stack
+## Here you have my contact: 
 
-## Here you have my contact
-[Instagram](https://www.instagram.com/victorroe819/)
+![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)
 
-[LinkedIn](https://www.linkedin.com/in/victorrangelromero/)
-
-[twitter](https://twitter.com/VictorRomero819)
-
+![twitter](http://assets.stickpng.com/images/58e9196deb97430e819064f6.png)
