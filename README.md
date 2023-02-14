@@ -4,7 +4,7 @@
 
 * I'm a student at Digital House. 
 
-* Back-end Developer.
+* DevOps | Cloud Engineer | Back-end Developer .
 
 * From Medellin, Colombia. 
 --------
@@ -12,5 +12,4 @@
 ## Contact  
 
 * [LinkedIn](https://www.linkedin.com/in/victorrangelromero/)
-* [Twitter](https://twitter.com/VictorRomero819)
-* victorroe819@gmail.com
+* victorrangele819@gmail.com
