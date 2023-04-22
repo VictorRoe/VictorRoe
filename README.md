@@ -1,4 +1,4 @@
-<img src=<img src="https://i.pinimg.com/originals/e3/24/e5/e324e56f50d63422474d6fb5c0fb39ad.gif" width="1000px" height = "450">
+<img src="https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif" width="1000px" height = "450">
 
 ## Hi! I'm **Victor**👋
 
