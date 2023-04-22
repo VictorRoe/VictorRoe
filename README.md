@@ -1,4 +1,4 @@
-![gif](gif/669128_ec1c7a78e9694aec8a07c2e48b292ae1_mv2.gif)
+![IMG](https://i.pinimg.com/564x/1e/cc/d3/1eccd3c580e86b481176589d60223cd4.jpg)
 
 ## Hi! I'm **Victor**👋
 
