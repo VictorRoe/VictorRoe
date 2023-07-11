@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif" width="1000px" height = "370">
+<p align="center">
+<img src="./hello_world.gif" alt="helloworld" width=800px height=350px>
+</p>
 
 ## Hi! I'm **Victor Rangel**👋
 
