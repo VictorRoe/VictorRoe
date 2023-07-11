@@ -4,7 +4,7 @@
 
 ## Hi! I'm **Victor Rangel**👋
 
-I'm a **Software Developer** located in Medellin, Colombia. Specifically in the role as Back-end developer, but I also have skills like DevOps.
+I'm a **Software Engineer** located in Medellin, Colombia. Specifically the role as Back-end developer, but I also have skills like DevOps.
 
 ### Languajes :
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -33,4 +33,4 @@ I'm a **Software Developer** located in Medellin, Colombia. Specifically in the 
 ## Contact :  
 
 * [LinkedIn](https://www.linkedin.com/in/victorrangelromero/)
-* victorrangele819@gmail.com"
+* victorrangele819@gmail.com
