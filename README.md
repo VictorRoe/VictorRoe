@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://media4.giphy.com/media/0QLpmAqG2TyRIr6onk/giphy.gif" alt="helloworld" width=800px height=350px>
-</p>
-
 ## Hello there! I'm **Victor** 🙋🏻‍♂️
 
 I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end Developer. Currently I work inside Mainframe z/OS as a COBOL developer.
