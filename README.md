@@ -16,7 +16,6 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white)
-![th](https://img.shields.io/badge/Three.js-%23000000?logo=threedotjs&logoColor=white)
 
 ### Data Base:
 
@@ -27,11 +26,10 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ### Other tools :
 
 ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?logo=Terraform)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws&logoColor=white&labelColor=%23232F3E)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?logo=npm)
-![Azure](https://img.shields.io/badge/Azure-%230078D4?logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=git)
-![jk](https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white)
 ![bash](https://img.shields.io/badge/Bash-%234EAA25?logo=gnubash&logoColor=white)
 ![mainframe](https://img.shields.io/badge/Mainframe%20z%2FOS-%23CC2936?logo=zotero&logoColor=white)
 
