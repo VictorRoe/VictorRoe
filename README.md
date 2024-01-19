@@ -1,6 +1,6 @@
 ## Hello there! I'm **Victor** 🙋🏻‍♂️
 
-I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end Developer. Currently I work inside Mainframe z/OS as a COBOL developer.
+I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end Developer and also a little bit as Front-end.
 In my free time I like to develop personal projects (I will publish them later).
 
 Anyway, if you need me for any freelance project, you can contact me at the links below. 👇🏻
