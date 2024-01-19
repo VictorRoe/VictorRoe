@@ -25,7 +25,7 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 
 ### Other tools :
 
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?logo=Terraform)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?logo=Terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws&logoColor=white&labelColor=%23232F3E)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
