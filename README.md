@@ -15,9 +15,8 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ### Libraries & Framework :
 
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6cb52d?logo=springboot&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white)
-![th](https://img.shields.io/badge/Three.js-%23000000?logo=threedotjs&logoColor=white)
+![tw](https://img.shields.io/badge/Tailwindcss-4479A1?logo=tailwindcss&logoColor=white)
 
 
 ### Data Base:
@@ -28,7 +27,7 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ### Other tools :
 
 ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?logo=Terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws&logoColor=white&labelColor=%23232F3E)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonwebservices&logoColor=white&labelColor=%23232F3E)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=git)
