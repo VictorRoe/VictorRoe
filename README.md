@@ -7,7 +7,6 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ### Languajes :
 ![Java](https://img.shields.io/badge/-Java-943126?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript&logoColor=yellow)
 ![TS](https://img.shields.io/badge/TypeScript-FFFFFF?logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3)
@@ -36,5 +35,5 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 
 ## Contact :  
 
-* [LinkedIn](https://www.linkedin.com/in/victorrangelromero/)
+* [LinkedIn](https://www.linkedin.com/in/victorrangele/)
 * victorrangele819@gmail.com
