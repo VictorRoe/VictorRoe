@@ -1,4 +1,4 @@
-## Hello there! I'm **Victor** 🙋🏻‍♂️
+  ## Hello there! I'm **Victor** 🙋🏻‍♂️
 
 I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end Developer and also a little bit as Front-end.
 In my free time I like to develop personal projects (I will publish them later).
@@ -12,6 +12,7 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ### Libraries & Framework :
 
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6cb52d?logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![tw](https://img.shields.io/badge/Tailwindcss-4479A1?logo=tailwindcss&logoColor=white)
 
