@@ -6,7 +6,7 @@ In my free time I like to develop personal projects (I will publish them later).
 Anyway, if you need me for any freelance project, you can contact me at the links below. 👇🏻
 ### Languajes :
 ![Java](https://img.shields.io/badge/-Java-943126?logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-FFFFFF?logo=TypeScript)
 
 ### Libraries & Framework :
@@ -21,6 +21,7 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
 
 ### Other tools :
 
@@ -35,4 +36,4 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ## Contact :  
 
 * [LinkedIn](https://www.linkedin.com/in/victorrangele/)
-* victorrangele819@gmail.com
+* [Email](mailto:victorrangele819@gmail.com)
