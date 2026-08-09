@@ -1,12 +1,14 @@
-  ## Hello there! I'm **Victor** 🙋🏻‍♂️
+  ## Hello there! I'm **Victor** 👋🏽
 
-I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end Developer and also a little bit as Front-end.
-In my free time I like to develop personal projects (I will publish them later).
+I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end and also DevOps...
 
-Anyway, if you need me for any freelance project, you can contact me at the links below. 👇🏻
+In my free time I like to develop personal projects.
+
+Anyway, if you need me for any freelance project, you can contact me at the links below.
+
 ### Languajes :
 ![Java](https://img.shields.io/badge/-Java-943126?logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-FFFFFF?logo=TypeScript)
 
 ### Libraries & Framework :
@@ -14,7 +16,7 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6cb52d?logo=springboot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![tw](https://img.shields.io/badge/Tailwindcss-4479A1?logo=tailwindcss&logoColor=white)
+![AWS SDK](https://img.shields.io/badge/AWS_SDK-%23232F3E?logo=iCloud&logoColor=white)
 
 
 ### Data Base:
@@ -26,10 +28,12 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ### Other tools :
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?logo=icloud&logoColor=white&labelColor=%23232F3E)
-![Podman](https://img.shields.io/badge/-Podman-892CA0?&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?&logo=git)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub_Actions-222222?logo=githubactions&logoColor=white)
 
 
 
