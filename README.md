@@ -1,10 +1,8 @@
   ## Hello there! I'm **Victor** 👋🏽
 
-I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end and also DevOps...
+* I'm a **Software Engineer** located in Medellin, Colombia and I have advanced knowledge as a Back-end and also DevOps...
 
-In my free time I like to develop personal projects.
-
-Anyway, if you need me for any freelance project, you can contact me at the links below.
+* In my free time I like to develop personal projects.
 
 ### Languajes :
 ![Java](https://img.shields.io/badge/-Java-943126?logo=openjdk&logoColor=white)
@@ -25,7 +23,7 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
 
-### Other tools :
+### Tools :
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?logo=icloud&logoColor=white&labelColor=%23232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)
@@ -39,5 +37,4 @@ Anyway, if you need me for any freelance project, you can contact me at the link
 
 ## Contact :  
 
-* [LinkedIn](https://www.linkedin.com/in/victorrangele/)
-* [Email](mailto:victorrangele819@gmail.com)
+Find all of my socials in my [website](https://www.victorroe.com)
