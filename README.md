@@ -27,6 +27,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?logo=icloud&logoColor=white&labelColor=%23232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?&logo=git)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
